@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.about {
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.info {
+  font-family: 'Roboto';
+  color: #555555;
+  font-style: italic;
+}
+
+.logo {
+  width: 200px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 42px;
+  color: #6d396b;
+}
